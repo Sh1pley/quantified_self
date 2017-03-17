@@ -1,0 +1,13 @@
+.chart div {
+  height: 40px;
+  background-color: #eee;
+  margin: 2px;
+}
+
+.chart div div {
+  background-color: rgba(62, 170, 175, 0.5);
+}
+
+.chart div div:hover {
+  background-color: rgba(219, 69, 69,0.4);
+}
