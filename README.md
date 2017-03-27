@@ -3,9 +3,11 @@ Jessie and Kyle's Quantified Self project for Turing.
 
 Calorie tracker that you can use to create foods, edit foods, add foods to meals, and filter foods by name.
 
-[Project Spec](http://backend.turing.io/module4/projects/quantified-self/quantified-self)
-
 [Production Site](https://kheppenstall.github.io/quantified_self/)
+
+[Internal API documentation](https://github.com/Sh1pley/quantified_self_api)
+
+[Project Spec](http://backend.turing.io/module4/projects/quantified-self/quantified-self)
 
 Tech Stack: Javascript, JQuery, Mocha, Chai, Asdf, Github Pages
 
